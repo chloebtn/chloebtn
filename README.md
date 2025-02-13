@@ -13,9 +13,8 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 
 - Python Data Associate (DataCamp)
 - SQL Associate (DataCamp)
-- Fundamentals AI (DataCamp, in process)
+- Fundamentals AI (DataCamp, in progress)
 - Excel for Financial Planning and Analysis (LinkedIn X NASBA, U.S. National Association of State Boards of Accountancy)
-- Excel: VBA (LinkedIn X NASBA, U.S. National Association of State Boards of Accountancy)
 
 
 ### 🎒 A 3 year Goal:
