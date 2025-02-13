@@ -8,6 +8,36 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 
 🧭 **Goal:** Working in quantitative analysis in finance
 
+**🎓 Certifications:** 
+
+- Python Data Associate (DataCamp)
+- SQL Associate (DataCamp)
+- Fundamentals AI (DataCamp, in process)
+- Excel for Financial Planning and Analysis (LinkedIn X NASBA, U.S. National Association of State Boards of Accountancy)
+- Excel: VBA (LinkedIn X NASBA, U.S. National Association of State Boards of Accountancy)
+
+**🎒 A 3 year Goal:**
+
+- CFA Level 1
+
+**📚 Extra-Classes Followed:**
+
+- Finance Fundamentals in Python (DataCamp)
+- Applied Finance in Python (DataCamp)
+- Bond Valuation and Analysis in Python (DataCamp)
+- Finance Fundamental in R (DataCamp)
+- Quantitative Analyst in R (DataCamp)
+- Complete Guide to Power BI for Data Analysts (LinkedIn X Microsoft Press)
+- SQL for Finance Professionals (LinkedIn)
+
+### Contact & Socials
+
+**📩 Email:** chloebouton.fr@gmail.com
+
+**🔗 LinkedIn:** [linkedin.com/in/chloe-btn/](https://www.linkedin.com/in/chloe-btn/)
+
+**📁 GitHub:** [make one]
+
 
 <!--
 **chloebtn/chloebtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
