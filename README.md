@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am a finance enthusiast and I have a Master of Science in Finance from Hult International Business School in Boston, Massachusetts.
+
+**Field:** Quantitative Finance, Data Science, Algorithmic Trading
+
+**Tools:** Python, R, Excel/VBA, SQL, Machine Learning
+
+**Goal:** Working in quantitative analysis in finance
+
+
 <!--
 **chloebtn/chloebtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
