@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a finance enthusiast and I have a Master of Science in Finance from Hult International Business School in Boston, Massachusetts.
+I am a finance enthusiast with a Master of Science in Finance from Hult International Business School in Boston, Massachusetts.
 
 **Field:** Quantitative Finance, Data Science, Algorithmic Trading
 
