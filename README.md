@@ -16,7 +16,7 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 - Fundamentals AI (DataCamp, in progress)
 - Excel for Financial Planning and Analysis (LinkedIn X NASBA, U.S. National Association of State Boards of Accountancy)
 
-## 🌱 I’m currently learning R 
+#### 🌱 I’m currently learning R 
 
 ### 🎒 A 3 year Goal:
 
