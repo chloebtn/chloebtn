@@ -11,9 +11,9 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 
 ### 🎓 Certifications:
 
+- Fundamentals AI (DataCamp, in progress)
 - Python Data Associate (DataCamp)
 - SQL Associate (DataCamp)
-- Fundamentals AI (DataCamp, in progress)
 - Excel for Financial Planning and Analysis (LinkedIn X NASBA, U.S. National Association of State Boards of Accountancy)
 
 #### 🌱 I’m currently learning R 
