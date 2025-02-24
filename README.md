@@ -24,7 +24,7 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 - AI Fundamentals (DataCamp)
 
 
-### 📚 Extra-Classes Followed:
+### 📚 Extra-Courses Completed:
 
 - Applied Finance in Python (DataCamp)
 - Bond Valuation and Analysis in Python (DataCamp)
