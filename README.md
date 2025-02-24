@@ -24,11 +24,6 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 - AI Fundamentals (DataCamp)
 
 
-### 🎒 A 3 year Goal:
-
-- CFA Level 1
-
-
 ### 📚 Extra-Classes Followed:
 
 - Applied Finance in Python (DataCamp)
@@ -38,6 +33,11 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 - SQL for Finance Professionals (LinkedIn)
 
 
+### 🎒 A 3 year Goal:
+
+- CFA Level 1
+
+  
 ### 📫 How to reach me:
 
 **📩 Email:** chloebouton.fr@gmail.com
