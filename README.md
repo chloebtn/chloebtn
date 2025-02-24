@@ -16,7 +16,13 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 - SQL Associate (DataCamp)
 - Excel for Financial Planning and Analysis (LinkedIn X NASBA, U.S. National Association of State Boards of Accountancy)
 
-#### 🌱 I’m currently learning R 
+
+### 🌱 I’m currently learning:
+
+- Quantitative Analyst in R (DataCamp)
+- Finance Fundamental in R (DataCamp)
+- AI Fundamentals (DataCamp)
+
 
 ### 🎒 A 3 year Goal:
 
@@ -25,16 +31,14 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 
 ### 📚 Extra-Classes Followed:
 
-- Finance Fundamentals in Python (DataCamp)
 - Applied Finance in Python (DataCamp)
 - Bond Valuation and Analysis in Python (DataCamp)
-- Finance Fundamental in R (DataCamp)
-- Quantitative Analyst in R (DataCamp)
+- Finance Fundamentals in Python (DataCamp)
 - Complete Guide to Power BI for Data Analysts (LinkedIn X Microsoft Press)
 - SQL for Finance Professionals (LinkedIn)
 
 
-### Contact & Socials
+### 📫 How to reach me:
 
 **📩 Email:** chloebouton.fr@gmail.com
 
