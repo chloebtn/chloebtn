@@ -31,12 +31,7 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 - Complete Guide to Power BI for Data Analysts (LinkedIn X Microsoft Press)
 - SQL for Finance Professionals (LinkedIn)
 
-
-### 🎒 A 3 year Goal:
-
-- CFA Level 1
-
-  
+ 
 ### 📫 How to reach me:
 
 **📩 Email:** chloebouton.fr@gmail.com
