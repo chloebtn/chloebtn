@@ -2,11 +2,11 @@
 
 I am a finance enthusiast with a Master of Science in Finance from Hult International Business School in Boston, Massachusetts.
 
-📈 **Field:** Quantitative Finance, Data Science, Algorithmic Trading
+📈 **Field:** Quantitative Finance
 
-💻 **Tools:** Python, R, Excel/VBA, SQL, Machine Learning
+💻 **Tools:** Python, R, Excel, SQL, Machine Learning
 
-🧭 **Goal:** Working in quantitative analysis in finance
+🧭 **Goal:** Working in financial services
 
 
 ### 🎓 Certifications:
