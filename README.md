@@ -4,7 +4,7 @@ I am a finance enthusiast with a Master of Science in Finance from Hult Internat
 
 📈 **Field:** Quantitative Finance
 
-💻 **Tools:** Python, R, Excel, SQL, Machine Learning
+💻 **Tools:** Python, R, Excel, SQL
 
 🧭 **Goal:** Working in financial services
 
